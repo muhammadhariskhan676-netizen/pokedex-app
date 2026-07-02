@@ -37,7 +37,7 @@ export default function RootLayout({
         <div className="flex-1">{children}</div>
 
         <footer className="border-t border-stone-200 bg-white py-6 text-center text-sm text-stone-400">
-         © 2026 Muhammad Haris Khan. All Rights Reserved. Built with Next.js for the Frontend
+         © 2026 Muhammad Haris Khan. All Rights Reserved.
         </footer>
       </body>
     </html>
