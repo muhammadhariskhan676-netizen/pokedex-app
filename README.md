@@ -5,9 +5,7 @@ consuming the public GraphQL Pokemon API.
 
 ## Live URL
 
-_Not deployed yet — see "How to run locally" below._
-
----
+https://haris-pokedex-app.vercel.app
 
 ## How to install and run locally
 
